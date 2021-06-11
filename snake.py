@@ -1,3 +1,4 @@
+# Program By Diksha Trivedi
 # importing everything tkinter library
 from tkinter import *
 from random import randint
